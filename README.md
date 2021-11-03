@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Filippo
+- 🌱 I’m currently studying computer science
+- 👀 I’m interested in increasing my knowledge in computer science and cybersecurity
