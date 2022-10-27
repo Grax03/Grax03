@@ -9,3 +9,4 @@
 
 - To contact me write to io@filippograziano.it. I promise that my secretary will reply as soon as possible
 - I also have a website www.filippograziano.it. Take a look if you have time
+- I'm popular on LinkedIn. <a href="https://it.linkedin.com/in/filippogiovannigraziano">Follow me!</a>
