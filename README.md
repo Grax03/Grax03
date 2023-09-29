@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏻, I'm Filippo Graziano</h1>
 <h3 align="center">I'm the Co-Founder and CEO of Valtrighe-Eagles</h3>
 
-- 🏫 I come from computer science studies but am now a Political Science and International Relations student at the University of Milan
+- 🏫 I come from IT studies but am now a Political Science and International Relations student at the University of Milan
 - 🌱 I’m currently studying computer science
 - 👀 I seek to broaden my understanding in the area of information technology and cybersecurity, with a special focus on their fundamental role in politics, national security, and citizen protection
 
