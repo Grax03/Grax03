@@ -23,9 +23,3 @@
 - 📧 **Email:** [io@filippograziano.it](mailto:io@filippograziano.it) <br>
 - 🌐 **Website:** [www.filippograziano.it](https://www.filippograziano.it)
 - 💼 **LinkedIn:** [Follow me!](https://it.linkedin.com/in/filippogiovannigraziano)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Grax03&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
