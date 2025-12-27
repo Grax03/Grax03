@@ -20,6 +20,6 @@
 
 ### 📬 Contacts
 
-- 📧 **Email:** [io@filippograziano.it](mailto:io@filippograziano.it) <br>
+- 📧 **Email:** [info@filippograziano.it](mailto:io@filippograziano.it) <br>
 - 🌐 **Website:** [www.filippograziano.it](https://www.filippograziano.it)
 - 💼 **LinkedIn:** [Follow me!](https://it.linkedin.com/in/filippogiovannigraziano)
